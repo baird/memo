@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: memo_production
-  username: memo
+  username: baird
   password: <%= ENV['MEMO_DATABASE_PASSWORD'] %>

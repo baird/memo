@@ -45,6 +45,12 @@ group :development, :test do
   # Requested on heroku push
   gem 'rails_12factor', group: :production
 
+  # user auth
+  gem 'devise'
+
+  # postgres?
+  gem 'pg'
+
   # Ruby Version
   source "https://rubygems.org"
   ruby "2.2.2"
