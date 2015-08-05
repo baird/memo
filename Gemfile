@@ -48,9 +48,6 @@ group :development, :test do
   # user auth
   gem 'devise'
 
-  # postgres?
-  gem 'pg'
-
   # Ruby Version
   source "https://rubygems.org"
   ruby "2.2.2"
