@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 # manage environment variables
 gem 'figaro'
+# OAuth for stripe
+gem 'omniauth-stripe-connect'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

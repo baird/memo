@@ -1,0 +1,9 @@
+  To finish the process of getting an access_token for your user's account, you'll need to make one extra API request with the authorization code we passed back. In this case, the code is ac_6jyVgSYTStGNW1ysuQC0O10dMgP8bDt6, taken directly from the GET parameters on the redirect.
+
+  "access_token": "sk_test_0vzUMktQtvEKUgWOg0Y1J5dU",
+  "livemode": false,
+  "refresh_token": "rt_6jyWKDyew6lYwPsWrcHexqT5kD3NiSRG5kz9UhM7gdb0N7Y6",
+  "token_type": "bearer",
+  "stripe_publishable_key": "pk_test_IpEhx2DcAXhVQPkoCbC1GUCO",
+  "stripe_user_id": "acct_16WDzAJenDL0q4Y7",
+  "scope": "read_write"
